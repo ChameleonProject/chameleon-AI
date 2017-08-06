@@ -8,7 +8,7 @@ Make sure you have R Enviroment set to build your AI. If not, check the [officia
 
 ## Run ## 
 
-* Make sure you have your data_set made with [Morph-Crawler](https://github.com/ChameleonProject/morph-crawler);
+* Make sure you have your data_set made with [Chameleon-Crawler](https://github.com/ChameleonProject/chameleon-crawler);
 * Run [analysis.R](https://github.com/ChameleonProject/chameleon-AI/blob/master/analysis.R) in R Studio to train your neural net and save the model;
 * Run [neural.R](https://github.com/ChameleonProject/chameleon-AI/blob/master/neural.R) also in R Studio loading your previouly created model.
 
